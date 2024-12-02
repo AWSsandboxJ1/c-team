@@ -5,7 +5,7 @@
     <ul>
       <li>sakamoto</li>
       <li>horiuchi</li>
-      <li></li>
+      <li>akagi</li>
     </ul>
   </div>
 </template>
