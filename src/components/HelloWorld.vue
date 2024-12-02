@@ -4,7 +4,7 @@
     <h2>AWS sandbox Cteam</h2>
     <ul>
       <li>sakamoto</li>
-      <li></li>
+      <li>horiuchi</li>
       <li></li>
     </ul>
   </div>
